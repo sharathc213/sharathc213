@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sharath C — Penetration Tester &amp; Red Team Operator</title>
+    <meta
+      name="description"
+      content="Portfolio of Sharath C, senior penetration tester with 4+ years of experience in web, mobile, API and network security assessments, red teaming, and custom offensive security tooling."
+    />
+    <meta name="author" content="Sharath C" />
+    <meta property="og:title" content="Sharath C — Penetration Tester &amp; Red Team Operator" />
+    <meta
+      property="og:description"
+      content="Offensive security portfolio of Sharath C — penetration testing, red teaming, and security tooling."
+    />
+    <meta property="og:type" content="profile" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="cursor-glow" id="cursorGlow" aria-hidden="true"></div>
+
+    <!-- Boot intro -->
+    <div id="boot">
+      <div class="boot-inner">
+        <div id="boot-lines"></div>
+        <div class="boot-bar" id="boot-bar"><span></span></div>
+      </div>
+    </div>
+
+    <!-- Nav -->
+    <header class="nav">
+      <div class="nav-bar">
+        <a class="brand" href="#top"><span class="dot"></span>SHARATH.C</a>
+        <nav class="nav-links">
+          <a href="#profile">Profile</a>
+          <a href="#arsenal">Skills</a>
+          <a href="#record">Experience</a>
+          <a href="#builds">Projects</a>
+          <a href="#contact">Contact</a>
+        </nav>
+        <a class="nav-cta" href="#contact">Contact</a>
+      </div>
+      <div id="progress"></div>
+    </header>
+
+    <main>
+      <!-- Hero -->
+      <section class="hero" id="top">
+        <div class="hero-media">
+          <img
+            src="hero.png"
+            alt="Macro photograph of a dark circuit board lit by amber signal light"
+            width="1920"
+            height="1200"
+          />
+          <div class="overlay tint"></div>
+          <div class="overlay veil"></div>
+        </div>
+        <div class="overlay grid grid-veil"></div>
+        <div class="overlay lines scanlines"></div>
+        <div class="overlay sweep"></div>
+        <div class="particles" aria-hidden="true">
+          <span></span><span></span><span></span><span></span><span></span><span></span>
+        </div>
+
+        <div class="hero-inner">
+          <span class="label cyan">/ 01 — Introduction</span>
+
+          <div>
+            <h1 class="name">
+              <span class="letters" id="letters"></span>
+              <span class="mask name-c" style="animation-delay: 4.24s"
+                ><span class="gradient-text" style="animation-delay: 2.7s">C</span></span
+              >
+            </h1>
+            <div class="name-meta">
+              <span class="rule"></span>
+              <span class="label place">root@sharath:~# status --available worldwide</span>
+            </div>
+
+            <p class="hero-copy">
+              I am a <span id="typer"><span id="typer-text"></span><span class="caret"></span></span>
+              <br />
+              with four years of experience identifying and remediating security vulnerabilities before they can be exploited.
+            </p>
+
+            <div class="hero-actions">
+              <a class="btn primary" href="#record"><span>View experience</span></a>
+              <a class="btn ghost mailto" href="#">Get in touch</a>
+            </div>
+          </div>
+
+          <div class="hero-foot">
+            <div class="stats" id="stats"></div>
+            <span class="label scroll-hint">scroll ↓</span>
+          </div>
+        </div>
+      </section>
+
+      <div class="marquee"><div class="marquee-track"></div></div>
+
+      <!-- Profile -->
+      <section class="block" id="profile">
+        <div class="reveal">
+          <div class="head-row">
+            <span class="label amber">02</span><span class="line"></span
+            ><span class="label">Overview</span>
+          </div>
+          <h2 class="section-title">Profile</h2>
+        </div>
+        <p class="lead reveal" id="summary"></p>
+        <div class="langs" id="langs"></div>
+      </section>
+
+      <!-- Arsenal -->
+      <section class="block" id="arsenal">
+        <div class="reveal">
+          <div class="head-row">
+            <span class="label amber">03</span><span class="line"></span
+            ><span class="label">Technical Skills</span>
+          </div>
+          <h2 class="section-title">Skills</h2>
+        </div>
+        <div class="grid3" id="skills"></div>
+      </section>
+
+      <div class="marquee"><div class="marquee-track"></div></div>
+
+      <!-- Record -->
+      <section class="block" id="record">
+        <div class="reveal">
+          <div class="head-row">
+            <span class="label amber">04</span><span class="line"></span
+            ><span class="label">Career History</span>
+          </div>
+          <h2 class="section-title">Experience</h2>
+        </div>
+        <div class="timeline" id="jobs"></div>
+      </section>
+
+      <!-- Builds -->
+      <section class="block" id="builds">
+        <div class="overlay grid grid-veil" style="opacity: 0.25"></div>
+        <div class="reveal" style="position: relative">
+          <div class="head-row">
+            <span class="label amber">05</span><span class="line"></span
+            ><span class="label">Selected Work</span>
+          </div>
+          <h2 class="section-title">Projects</h2>
+        </div>
+        <div id="projects" style="position: relative; margin-top: 3rem"></div>
+      </section>
+
+      <!-- Credentials -->
+      <section class="block" id="credentials">
+        <div class="reveal">
+          <div class="head-row">
+            <span class="label amber">06</span><span class="line"></span
+            ><span class="label">Qualifications</span>
+          </div>
+          <h2 class="section-title">Credentials</h2>
+        </div>
+        <div class="creds" id="creds"></div>
+      </section>
+    </main>
+
+    <!-- Contact -->
+    <footer class="contact" id="contact">
+      <div class="glow"></div>
+      <div class="overlay grid grid-veil" style="opacity: 0.4"></div>
+      <div style="position: relative">
+        <span class="label amber">07 — Contact</span>
+        <h2>Let's discuss your<br />security needs.</h2>
+
+        <a class="mail mailto" href="#">
+          <span id="email-text"></span>
+          <span class="arrow">→</span>
+        </a>
+
+        <div class="contact-foot">
+          <div class="contact-cols">
+            <div>
+              <div class="label" style="font-size: 0.6rem">GitHub</div>
+              <a id="github-link" href="#" target="_blank" rel="noreferrer">sharathc213</a>
+            </div>
+            <div>
+              <div class="label" style="font-size: 0.6rem">Base</div>
+              <div>Kerala, India</div>
+            </div>
+          </div>
+          <p class="label" style="font-size: 0.58rem">
+            © <span id="year"></span> Sharath C — All rights reserved.
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
