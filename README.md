@@ -4,11 +4,10 @@
 
 <a href="https://linkedin.com/in/sharathc213"><img src="https://img.shields.io/badge/-LinkedIn-00ff9d?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
 <a href="mailto:csharath213@gmail.com"><img src="https://img.shields.io/badge/-Email-00c6ff?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-<a href="https://sharathc.in"><img src="https://img.shields.io/badge/-Portfolio-0f2027?style=for-the-badge&logo=todoist&logoColor=00ff9d" /></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=root%40sharath%3A~%23+whoami;Penetration+Tester+%7C+Red+Teamer;Attack.+Analyze.+Secure." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=root%40sharath%3A~%23+whoami;Penetration+Tester+%7C+Red+Teamer;Attack.+Analyze.+Secure." alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sharathc213&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/sharathc213?style=for-the-badge&color=00c6ff&labelColor=0f2027)
@@ -79,11 +78,11 @@ driving security standards across multiple VAPT engagements.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharathc213&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0f2027&title_color=00ff9d&icon_color=00c6ff&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharathc213&theme=highcontrast&hide_border=true&background=0f2027&stroke=00ff9d&ring=00c6ff&fire=ff2a6d&currStreakLabel=00ff9d" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sharathc213&show_icons=true&theme=radical&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=sharathc213&theme=radical&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathc213&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0f2027&title_color=00ff9d&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharathc213&theme=react-dark&hide_border=true&bg_color=0f2027&color=00ff9d&line=00c6ff&point=ff2a6d" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathc213&layout=compact&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharathc213&theme=react-dark&hide_border=true" width="49%"/>
 
 </div>
 
@@ -94,10 +93,10 @@ driving security standards across multiple VAPT engagements.
 <div align="center">
 
 <!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/sharathc213/sharathc213/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/sharathc213/sharathc213/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 <!--END_SECTION:snake-->
 
-<sub>⚙️ Animated snake generated automatically by a GitHub Action — see setup below.</sub>
+<sub>⚙️ This image will show broken/blank until you complete the one-time setup below — GitHub has to generate it first.</sub>
 
 </div>
 
@@ -109,14 +108,13 @@ driving security standards across multiple VAPT engagements.
 
 [![Email](https://img.shields.io/badge/-csharath213%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=00ff9d)](mailto:csharath213@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-sharathc213-0f2027?style=for-the-badge&logo=linkedin&logoColor=00c6ff)](https://linkedin.com/in/sharathc213)
-[![Portfolio](https://img.shields.io/badge/-sharathc.in-0f2027?style=for-the-badge&logo=todoist&logoColor=ff2a6d)](https://sharathc.in)
 ![India](https://img.shields.io/badge/-India-0f2027?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=%22The+best+way+to+predict+your+future+is+to+create+it.%22+%E2%80%94+Anonymous" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=%22The+best+way+to+predict+your+future+is+to+create+it.%22+%E2%80%94+Anonymous" />
 
 </div>
 
