@@ -74,19 +74,6 @@ driving security standards across multiple VAPT engagements.
 
 <br/>
 
-## `> ./run_stats.sh`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sharathc213&show_icons=true&theme=radical&hide_border=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=sharathc213&theme=radical&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathc213&layout=compact&theme=radical&hide_border=true" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharathc213&theme=react-dark&hide_border=true" width="49%"/>
-
-</div>
-
-<br/>
 
 ## `> git log --graph --oneline`
 
@@ -96,7 +83,6 @@ driving security standards across multiple VAPT engagements.
 <img src="https://raw.githubusercontent.com/sharathc213/sharathc213/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 <!--END_SECTION:snake-->
 
-<sub>⚙️ This image will show broken/blank until you complete the one-time setup below — GitHub has to generate it first.</sub>
 
 </div>
 
